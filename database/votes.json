@@ -1,0 +1,120 @@
+{
+    "80276479": {
+        "title": "new supplies",
+        "reason": "suppliessupplies",
+        "organiser": "me",
+        "creator": "19761790",
+        "mode": "public",
+        "hashed_vote_password": null,
+        "start_time": "2026-02-07-00-00",
+        "end_time": "2026-02-08-19-48",
+        "status": "ended",
+        "options": [
+            "yes",
+            "no"
+        ],
+        "result": {
+            "yes": 1,
+            "no": 0
+        },
+        "blockchain_wallet": "CW6uj7mKsZVhhwaMDqBqfmrXCKqq6AYDu6wiww9iFFVP",
+        "vote_count": 2,
+        "initiation_time": "2026-02-08 18:47:46.853855",
+        "winner": "yes"
+    },
+    "22057483": {
+        "title": "Should we have a half day",
+        "reason": "We are deciding if we should have a half day on a Wednesday for year 13",
+        "organiser": "KESH",
+        "creator": "31063833",
+        "mode": "public",
+        "hashed_vote_password": null,
+        "start_time": "2026-02-10-11-10",
+        "end_time": "2026-02-10-11-20",
+        "status": "ended",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "result": {
+            "Yes": 0,
+            "No": 0,
+            "Not Sure": 0
+        },
+        "winner": "No Winner, Tie",
+        "blockchain_wallet": "Cg8M9DzzVQceyo4pVFcRwxWQNoiVM2CQrwYfVuZjdu9p",
+        "vote_count": 0,
+        "initiation_time": "2026-02-10 11:06:44.688875"
+    },
+    "12970111": {
+        "title": "should we all get full marks",
+        "reason": "idk",
+        "organiser": "KESH",
+        "creator": "42311587",
+        "mode": "private",
+        "hashed_vote_password": "$argon2id$v=19$m=65536,t=3,p=4$9apnXaq15NmBXlsFxOmbOg$1MEizALPOphQdXfAh1mjSh94uAD/rveKMsnKs3Q33lM",
+        "start_time": "2026-02-10-11-10",
+        "end_time": "2026-02-13-13-20",
+        "status": "ended",
+        "options": [
+            "Yes",
+            "No",
+            "Not Sure"
+        ],
+        "result": {
+            "Yes": 0,
+            "No": 0,
+            "Not Sure": 0
+        },
+        "winner": "No Winner, Tie",
+        "blockchain_wallet": "FSzTn9DnrSeJ6QemPCXHvuRBrio7mEVS4Sva84t4rf8a",
+        "vote_count": 0,
+        "initiation_time": "2026-02-12 23:08:17.331302"
+    },
+    "92686887": {
+        "title": "test",
+        "reason": "test",
+        "organiser": "tester",
+        "creator": "42311587",
+        "mode": "private",
+        "hashed_vote_password": "$argon2id$v=19$m=65536,t=3,p=4$Jn3dOmNr5bwXJRuolK4siw$swfiBc4iQbiCduLeimavbbscBeWHCT+pZ84R9Ibae/E",
+        "start_time": "2026-02-12-23-48",
+        "end_time": "2026-02-13-23-48",
+        "status": "ended",
+        "options": [
+            "A",
+            "B"
+        ],
+        "result": {
+            "A": 1,
+            "B": 0
+        },
+        "winner": "A",
+        "blockchain_wallet": "2GbLvCuJr1pc9WtkRYMm2LEYNHNsNy1ofpSm2qTvexJn",
+        "vote_count": 1,
+        "initiation_time": "2026-02-12 23:49:12.912434"
+    },
+    "20492380": {
+        "title": "Who should lead project TrueVote?",
+        "reason": "to decide the leader of project TrueVote",
+        "organiser": "TrueVote team",
+        "creator": "33695687",
+        "mode": "private",
+        "hashed_vote_password": "$argon2id$v=19$m=65536,t=3,p=4$asE34o1MGFxZYnYhH6kF4Q$mq8R/ye4dp6ep7DJ3YC2Uz2J45rZm+QxhySTtCeUqF0",
+        "start_time": "2026-03-08-21-06",
+        "end_time": "2026-03-10-21-06",
+        "status": "started",
+        "options": [
+            "George",
+            "Charles",
+            "Max"
+        ],
+        "result": "",
+        "winner": "",
+        "blockchain_wallet": "G16bS48V9BJqv9myScghu8PZ8RvsL8vpwQX5QrU84HUw",
+        "is_funded": true,
+        "vote_count": 2,
+        "initiation_time": "2026-03-08 21:09:31.358562"
+    }
+}

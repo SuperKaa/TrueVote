@@ -1,0 +1,54 @@
+{
+    "80276479": {
+        "19761790": {
+            "has_voted": true,
+            "voted_for": "yes",
+            "vote_time": "2026, 02, 08, 19, 34",
+            "vote_signature": "3C3WUb24bxTvqqc7W83Sgf9c6v1EtB7ZFfp2wiULaAnmK4cnzyGK5og4AzBXPZSgKUpaN5pozTQ8pL3vBMRYj2nr"
+        },
+        "31063833": {
+            "has_voted": false,
+            "voted_for": "",
+            "vote_time": "",
+            "vote_signature": ""
+        }
+    },
+    "22057483": {
+        "31063833": {
+            "has_voted": false,
+            "voted_for": "",
+            "vote_time": "",
+            "vote_signature": ""
+        }
+    },
+    "12970111": {
+        "31063833": {
+            "has_voted": false,
+            "voted_for": "",
+            "vote_time": "",
+            "vote_signature": ""
+        }
+    },
+    "92686887": {
+        "55541287": {
+            "has_voted": true,
+            "voted_for": "A",
+            "vote_time": "2026, 02, 12, 23, 54",
+            "vote_signature": "mMBXkdwr6ZNhAyjT8R7gqaEzWPH4YoSqN7kSaBz9idoyYbCH2FETeKU1BwHCchosmMPW8mmoHyvh354RCCqotcS"
+        },
+        "19761790": {
+            "has_voted": false,
+            "voted_for": "",
+            "vote_time": "",
+            "vote_signature": ""
+        }
+    },
+    "20492380": {
+        "38058285": {
+            "has_voted": true,
+            "voted_for": "Max",
+            "vote_time": "2026, 03, 09, 22, 50",
+            "vote_signature": "3vHGvoaZnHgEMVX4HJP9aLjX3tYw285fT1nAkjN1iUXYVRtANoUPQi6gpJKEWj1TmgED4zHzAZ4RE83hnAWw9bfc"
+        }
+    }
+}

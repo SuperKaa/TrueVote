@@ -1,0 +1,87 @@
+{
+    "31063833": {
+        "name": "joe",
+        "email": "joe@example.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$ZdFpTFOUg/3aRCd+boTQ4A$5ggKkTyPjdV68cTwceL8xLQEJ6MPf2TRHl7pgsifp0Q",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$RjO8Sr7hzi7jAxSnxG1I5A$TKvDqLcAsGwV6rlG4ZselJZ9eYScDcP22zL7aZQTKXI",
+        "phone": "123456789",
+        "vote_creations": 1,
+        "account_created": "2026-01-31"
+    },
+    "42311587": {
+        "name": "jeff",
+        "email": "jeff@example.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$Sh7hEMMmse3WZy+6+7bk8w$eu8uT6bdMqdr0fc3vHgeO7bht/Oq50tikge4l4BKL40",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$OZdue2QavAXChyL3U89OPA$FyYPIwUK35Gxo4+YX7+V+c9GQKwNfP00fcDHXLEmHRs",
+        "phone": "123456789",
+        "vote_creations": 1,
+        "account_created": "2026-01-31"
+    },
+    "19761790": {
+        "name": "musa",
+        "email": "redacted@gmail.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$MzEAXD3ErQGXKbflGJ1/8Q$mQcz2Fprc+oASOKC49BNaM4GEkvK2K2Sr8X5KNoN96U",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$OZdue2QavAXChyL3U89OPA$FyYPIwUK35Gxo4+YX7+V+c9GQKwNfP00fcDHXLEmHRs",
+        "phone": "999",
+        "vote_creations": 0,
+        "account_created": "2026-02-08"
+    },
+    "55541287": {
+        "name": "tester",
+        "email": "redacted@outlook.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$VPFzrgILrEC5sn0wOdkt8w$QQj4sIs/TZRcoJcPRq7pCEU2VA5cHmpClOoO8mHQGN8",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$Ulpc3ne2GaM+oD0z6EobFg$ECU8Uyd2nNLFEExpNp9Q6ZePijk+xzxr4V7+eaOeWzk",
+        "phone": "222222",
+        "vote_creations": 0,
+        "account_created": "2026-02-12"
+    },
+    "36773426": {
+        "name": "john",
+        "email": "redacted@gmail.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$XefTCIh2Hd2jY8q2k+kvXg$tXSj8sHLPDvb/ttRk9GPxPfCTdzvLaMkemUIKO92V94",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$P3AhlKgR8PBDoH6USIkuLg$b4rFLQPtWcgDUTAHE7bxzeYIVOYY5q55XbQkY7uZUkU",
+        "phone": "123456789",
+        "vote_creations": 0,
+        "account_created": "2026-03-05"
+    },
+    "26878954": {
+        "name": "Max",
+        "email": "redacted@redacted.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$FOK0GWdDpVtG1QOlP5Hq0A$PWfMEVfGPyG44BFJB2n/NTbJ/2uzlpByAC45KD6DG98",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$gFQJCJrLGhVtvlH2VQNreQ$b5YFEUWfZLhMIlgAp9ko/cAheTEy06gkulHdF8C9jJU",
+        "phone": "07823xxxxxx",
+        "vote_creations": 0,
+        "account_created": "2026-03-07"
+    },
+    "33695687": {
+        "name": "George",
+        "email": "email_hidden2@outlook.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$QaOzZBQ717YPDqPDlPsj/Q$LDh/IY7zidBuXXswLpcTGrH0QLgk9tCXn7BX0+a1JUs",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$Tprq+C9DWrmFYpaZWfpV9g$RqLE8s8ysO4IGpjTlgS1Xu49/YLse9J08pH0/CY/2+0",
+        "phone": "07823xxxxxx",
+        "vote_creations": 1,
+        "login_attempts": 0,
+        "last_login": "2026-03-08 21:27:21",
+        "account_created": "2026-03-07"
+    },
+    "26775672": {
+        "name": "Isack",
+        "email": "redacted@chefalredactedicious.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$r14J3fqM9d9W9CBbQzVp8w$IfJZZXY0z+MEdZoxU7waC2J3KESWvHGOS8vRBkp9RrU",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$VZRJbf0pUgI89scHTjSLKQ$ETyc7g0QLqNA+vyrsPByMXY7ZUoSVHOQZ7aQ7blfL+Y",
+        "phone": "07852991163",
+        "vote_creations": 0,
+        "account_created": "2026-03-07"
+    },
+    "38058285": {
+        "name": "Max",
+        "email": "redacted@redacted.com",
+        "hashed_password": "$argon2id$v=19$m=65536,t=3,p=4$VsDX06AzWc66uED7kafDaw$qQRMB9iB4sQKjGMEvxTZF6eR0LQXYVYGR+v9xbNaaj0",
+        "hashed_special_words": "$argon2id$v=19$m=65536,t=3,p=4$r/5YsAZjTyIKe+VTTnZX9g$GlkjxepCy+M9L1juQ+snCf82UGG5k0c/D8Pfke+s3zo",
+        "phone": "07528442204",
+        "vote_creations": 0,
+        "login_attempts": 0,
+        "last_login": "2026-03-09 22:39:21",
+        "account_created": "2026-03-09"
+    }
+}
