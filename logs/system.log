@@ -1,0 +1,23 @@
+[2026-03-09 22:50:13] Opening users.json
+[2026-03-09 22:50:13] Opening uservotes.json
+[2026-03-09 22:50:13] Opening votekeys.json
+[2026-03-09 22:50:13] Writing votekeys.json
+[2026-03-09 22:50:13] Opening votes.json
+[2026-03-09 22:50:13] Opening solanakeys.json
+[2026-03-09 22:50:14] Writing votes.json
+[2026-03-09 22:50:14] Writing uservotes.json
+[2026-03-09 22:50:14] 38058285 voted on vote with id 20492380 signatre is 3vHGvoaZnHgEMVX4HJP9aLjX3tYw285fT1nAkjN1iUXYVRtANoUPQi6gpJKEWj1TmgED4zHzAZ4RE83hnAWw9bfc
+[2026-03-09 22:54:20] Opening votes.json
+[2026-03-09 22:54:24] Opening votes.json
+[2026-03-09 22:54:30] Opening votes.json
+[2026-03-09 22:54:32] Opening votes.json
+[2026-03-09 23:01:50] Opening privileges.json
+[2026-03-09 23:01:52] Opening privileges.json
+[2026-03-09 23:04:03] Opening privileges.json
+[2026-03-09 23:04:05] Opening privileges.json
+[2026-03-09 23:04:33] Opening privileges.json
+[2026-03-09 23:04:35] Opening privileges.json
+[2026-03-09 23:07:19] Opening privileges.json
+[2026-03-09 23:07:22] Opening privileges.json
+[2026-03-09 23:07:24] Opening privileges.json
+[2026-03-10 00:53:39] Frontend server has started
